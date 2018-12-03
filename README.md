@@ -1,11 +1,13 @@
 # Authentication with React Native and Google Firebase
 
-<img 
-  src='https://raw.githubusercontent.com/czhu6515/auth-react-native/master/assets/Screenshot_20181203-130302.png'
-  alt='screenshot'
-  height=400
-  width=230
-/>
+<p align='center'>
+  <img 
+    src='https://raw.githubusercontent.com/czhu6515/auth-react-native/master/assets/Screenshot_20181203-130302.png'
+    alt='screenshot'
+    height=400
+    width=230
+  />
+</p>
 
 Simple mobile app developed using React Native, Expo, and Firebase. Users can sign up for the app, sign in, and sign out. If attempting to clone and explore, you must 
  * Sign up for a Firebase account with the link below 
