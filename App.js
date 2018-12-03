@@ -9,20 +9,15 @@ import firebase from 'firebase'
 export default class App extends React.Component {
 
   componentWillMount(){
-    const { apiKey, 
-      authDomain, 
-      databaseURL, 
-      projectId, 
-      storageBucket, 
-      messagingSenderId } = process.env
+    
 
     firebase.initializeApp({
-      apiKey,
-      authDomain,
-      databaseURL,
-      projectId,
-      storageBucket,
-      messagingSenderId
+      apiKey: 'AIzaSyBPLaAGZBkpwiwJRxBqDdMNbLMsTKujlRQ',
+      authDomain: 'auth-1ec3c.firebaseapp.com',
+      databaseURL: 'https://auth-1ec3c.firebaseio.com',
+      projectId: 'auth-1ec3c',
+      storageBucket: 'auth-1ec3c.appspot.com',
+      messagingSenderId: '450076585261'
     })
   }
 
