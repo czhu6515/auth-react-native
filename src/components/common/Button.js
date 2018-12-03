@@ -24,7 +24,7 @@ const styles = {
     borderRadius: 5,
     borderWidth: 1,
     borderColor: '#007aff',
-    margin: 5
+    margin: 5,
   },
   buttonTextStyle: {
     alignSelf: 'center',
