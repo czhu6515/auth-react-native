@@ -1,4 +1,4 @@
-# Authentication with React Native and Google Firebase
+# User Authentication with React Native and Google Firebase
 
 <p align='center'>
   <img 
