@@ -9,7 +9,7 @@
 
 Simple mobile app developed using React Native, Expo, and Firebase. Users can sign up for the app, sign in, and sign out. If attempting to clone and explore, you must 
  * Sign up for a Firebase account with the link below 
- * Create a new Firebase project, 
+ * Create a new Firebase project 
  * Find the 'Add Firebase to your web app' button
  * Copy object in config variable which should have the following structure
  ```javascript
@@ -26,5 +26,7 @@ Simple mobile app developed using React Native, Expo, and Firebase. Users can si
 
 
 React Native: https://facebook.github.io/react-native/
+
 Expo: https://expo.io/
+
 Firebase: https://firebase.google.com/
